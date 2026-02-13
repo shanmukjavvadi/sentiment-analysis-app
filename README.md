@@ -64,13 +64,6 @@ streamlit run app.py
 
 ---
 
-# 🚀 Optional But Powerful Upgrade
-
-Add this section at the bottom:
-
-```markdown
----
-
 ## 🎯 Key Highlights
 
 - Compared multiple ML classification models
